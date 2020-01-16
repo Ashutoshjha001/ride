@@ -1,0 +1,28 @@
+body{
+	background-color: #b3ffff;
+	background-image: url("bcg1.jpg");
+	background-repeat: no-repeat;
+	background-size:  cover;
+	background-position: center;
+	height: 100%;
+    background-blend-mode: lighten;
+}
+h1{
+	font-weight: 400;
+	font-size: 3em;
+	margin-top: 1em;
+}
+form{
+	margin-left: 2em;
+}
+
+h2{
+	font-size: 1.5em;
+	font-weight: 200;
+	margin-left: 2em;
+	
+}
+img{
+	vertical-align: middle;
+	padding: 6px 6px 6px 6px;
+}
